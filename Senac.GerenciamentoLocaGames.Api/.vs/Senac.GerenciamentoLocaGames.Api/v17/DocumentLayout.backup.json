@@ -6,14 +6,29 @@
       "AbsoluteMoniker": "D:0:0:{5E153878-7940-4AF8-929E-58FAF68945FE}|..\\Senac.GerenciamentoLocaGames.Infra.Data\\Senac.GerenciamentoLocaGames.Infra.Data.csproj|c:\\users\\leonardohenriquegabb\\source\\repos\\senac.gerenciamentolocagames.infra.data\\repositories\\jogorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{3A3060E3-C96D-4DEB-A9E2-08BF5D3B39D3}|..\\Senac.GerenciamentoLocaGames.Domain\\Senac.GerenciamentoLocaGames.Domain.csproj|c:\\users\\leonardohenriquegabb\\source\\repos\\senac.gerenciamentolocagames.domain\\servicos\\jogoservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{09E6D05C-8FC7-4A13-B274-48A086AB9777}|Senac.GerenciamentoLocaGames.Api.csproj|c:\\users\\leonardohenriquegabb\\source\\repos\\senac.gerenciamentolocagames.api\\controllers\\jogocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{09E6D05C-8FC7-4A13-B274-48A086AB9777}|Senac.GerenciamentoLocaGames.Api.csproj|solutionrelative:controllers\\jogocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{3A3060E3-C96D-4DEB-A9E2-08BF5D3B39D3}|..\\Senac.GerenciamentoLocaGames.Domain\\Senac.GerenciamentoLocaGames.Domain.csproj|c:\\users\\leonardohenriquegabb\\source\\repos\\senac.gerenciamentolocagames.domain\\models\\jogo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3A3060E3-C96D-4DEB-A9E2-08BF5D3B39D3}|..\\Senac.GerenciamentoLocaGames.Domain\\Senac.GerenciamentoLocaGames.Domain.csproj|c:\\users\\leonardohenriquegabb\\source\\repos\\senac.gerenciamentolocagames.domain\\models\\categoria.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3A3060E3-C96D-4DEB-A9E2-08BF5D3B39D3}|..\\Senac.GerenciamentoLocaGames.Domain\\Senac.GerenciamentoLocaGames.Domain.csproj|c:\\users\\leonardohenriquegabb\\source\\repos\\senac.gerenciamentolocagames.domain\\servicos\\jogoservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3A3060E3-C96D-4DEB-A9E2-08BF5D3B39D3}|..\\Senac.GerenciamentoLocaGames.Domain\\Senac.GerenciamentoLocaGames.Domain.csproj|c:\\users\\leonardohenriquegabb\\source\\repos\\senac.gerenciamentolocagames.domain\\dtos\\response\\jogo\\cadastrarresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3A3060E3-C96D-4DEB-A9E2-08BF5D3B39D3}|..\\Senac.GerenciamentoLocaGames.Domain\\Senac.GerenciamentoLocaGames.Domain.csproj|c:\\users\\leonardohenriquegabb\\source\\repos\\senac.gerenciamentolocagames.domain\\dtos\\response\\jogo\\obtertodosresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3A3060E3-C96D-4DEB-A9E2-08BF5D3B39D3}|..\\Senac.GerenciamentoLocaGames.Domain\\Senac.GerenciamentoLocaGames.Domain.csproj|c:\\users\\leonardohenriquegabb\\source\\repos\\senac.gerenciamentolocagames.domain\\dtos\\response\\jogo\\obterdetalhadoporidresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3A3060E3-C96D-4DEB-A9E2-08BF5D3B39D3}|..\\Senac.GerenciamentoLocaGames.Domain\\Senac.GerenciamentoLocaGames.Domain.csproj|c:\\users\\leonardohenriquegabb\\source\\repos\\senac.gerenciamentolocagames.domain\\dtos\\response\\erroresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{3A3060E3-C96D-4DEB-A9E2-08BF5D3B39D3}|..\\Senac.GerenciamentoLocaGames.Domain\\Senac.GerenciamentoLocaGames.Domain.csproj|c:\\users\\leonardohenriquegabb\\source\\repos\\senac.gerenciamentolocagames.domain\\repositories\\ijogorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
@@ -28,32 +43,13 @@
       "AbsoluteMoniker": "D:0:0:{3A3060E3-C96D-4DEB-A9E2-08BF5D3B39D3}|..\\Senac.GerenciamentoLocaGames.Domain\\Senac.GerenciamentoLocaGames.Domain.csproj|c:\\users\\leonardohenriquegabb\\source\\repos\\senac.gerenciamentolocagames.domain\\dtos\\request\\alugarjogorequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{3A3060E3-C96D-4DEB-A9E2-08BF5D3B39D3}|..\\Senac.GerenciamentoLocaGames.Domain\\Senac.GerenciamentoLocaGames.Domain.csproj|c:\\users\\leonardohenriquegabb\\source\\repos\\senac.gerenciamentolocagames.domain\\dtos\\response\\jogo\\obterdetalhadoporidresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{3A3060E3-C96D-4DEB-A9E2-08BF5D3B39D3}|..\\Senac.GerenciamentoLocaGames.Domain\\Senac.GerenciamentoLocaGames.Domain.csproj|c:\\users\\leonardohenriquegabb\\source\\repos\\senac.gerenciamentolocagames.domain\\dtos\\response\\jogo\\obtertodosresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{3A3060E3-C96D-4DEB-A9E2-08BF5D3B39D3}|..\\Senac.GerenciamentoLocaGames.Domain\\Senac.GerenciamentoLocaGames.Domain.csproj|c:\\users\\leonardohenriquegabb\\source\\repos\\senac.gerenciamentolocagames.domain\\dtos\\request\\atualizarjogorequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{3A3060E3-C96D-4DEB-A9E2-08BF5D3B39D3}|..\\Senac.GerenciamentoLocaGames.Domain\\Senac.GerenciamentoLocaGames.Domain.csproj|c:\\users\\leonardohenriquegabb\\source\\repos\\senac.gerenciamentolocagames.domain\\dtos\\response\\jogo\\cadastrarresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{5E153878-7940-4AF8-929E-58FAF68945FE}|..\\Senac.GerenciamentoLocaGames.Infra.Data\\Senac.GerenciamentoLocaGames.Infra.Data.csproj|c:\\users\\leonardohenriquegabb\\source\\repos\\senac.gerenciamentolocagames.infra.data\\databaseconfiguration\\dbconnectionfactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{09E6D05C-8FC7-4A13-B274-48A086AB9777}|Senac.GerenciamentoLocaGames.Api.csproj|c:\\users\\leonardohenriquegabb\\source\\repos\\senac.gerenciamentolocagames.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{09E6D05C-8FC7-4A13-B274-48A086AB9777}|Senac.GerenciamentoLocaGames.Api.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{3A3060E3-C96D-4DEB-A9E2-08BF5D3B39D3}|..\\Senac.GerenciamentoLocaGames.Domain\\Senac.GerenciamentoLocaGames.Domain.csproj|c:\\users\\leonardohenriquegabb\\source\\repos\\senac.gerenciamentolocagames.domain\\models\\categoria.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{5E153878-7940-4AF8-929E-58FAF68945FE}|..\\Senac.GerenciamentoLocaGames.Infra.Data\\Senac.GerenciamentoLocaGames.Infra.Data.csproj|c:\\users\\leonardohenriquegabb\\source\\repos\\senac.gerenciamentolocagames.infra.data\\databaseconfiguration\\idbconnectionfactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{3A3060E3-C96D-4DEB-A9E2-08BF5D3B39D3}|..\\Senac.GerenciamentoLocaGames.Domain\\Senac.GerenciamentoLocaGames.Domain.csproj|c:\\users\\leonardohenriquegabb\\source\\repos\\senac.gerenciamentolocagames.domain\\dtos\\response\\erroresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -73,92 +69,27 @@
               "RelativeDocumentMoniker": "..\\Senac.GerenciamentoLocaGames.Infra.Data\\Repositories\\JogoRepository.cs",
               "ToolTip": "C:\\Users\\LEONARDOHENRIQUEGABB\\source\\repos\\Senac.GerenciamentoLocaGames.Infra.Data\\Repositories\\JogoRepository.cs",
               "RelativeToolTip": "..\\Senac.GerenciamentoLocaGames.Infra.Data\\Repositories\\JogoRepository.cs",
-              "ViewState": "AgIAAGkAAAAAAAAAAAAiwIAAAAARAAAAAAAAAA==",
+              "ViewState": "AgIAAGUAAAAAAAAAAAAgwHEAAAARAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-07-22T00:11:06.484Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
-              "Title": "ObterTodosResponse.cs",
-              "DocumentMoniker": "C:\\Users\\LEONARDOHENRIQUEGABB\\source\\repos\\Senac.GerenciamentoLocaGames.Domain\\Dtos\\Response\\Jogo\\ObterTodosResponse.cs",
-              "RelativeDocumentMoniker": "..\\Senac.GerenciamentoLocaGames.Domain\\Dtos\\Response\\Jogo\\ObterTodosResponse.cs",
-              "ToolTip": "C:\\Users\\LEONARDOHENRIQUEGABB\\source\\repos\\Senac.GerenciamentoLocaGames.Domain\\Dtos\\Response\\Jogo\\ObterTodosResponse.cs",
-              "RelativeToolTip": "..\\Senac.GerenciamentoLocaGames.Domain\\Dtos\\Response\\Jogo\\ObterTodosResponse.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAABAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-17T23:09:36.462Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "CadastrarJogoRequest.cs",
-              "DocumentMoniker": "C:\\Users\\LEONARDOHENRIQUEGABB\\source\\repos\\Senac.GerenciamentoLocaGames.Domain\\Dtos\\Request\\CadastrarJogoRequest.cs",
-              "RelativeDocumentMoniker": "..\\Senac.GerenciamentoLocaGames.Domain\\Dtos\\Request\\CadastrarJogoRequest.cs",
-              "ToolTip": "C:\\Users\\LEONARDOHENRIQUEGABB\\source\\repos\\Senac.GerenciamentoLocaGames.Domain\\Dtos\\Request\\CadastrarJogoRequest.cs",
-              "RelativeToolTip": "..\\Senac.GerenciamentoLocaGames.Domain\\Dtos\\Request\\CadastrarJogoRequest.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-17T22:52:15.038Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 10,
-              "Title": "AtualizarJogoRequest.cs",
-              "DocumentMoniker": "C:\\Users\\LEONARDOHENRIQUEGABB\\source\\repos\\Senac.GerenciamentoLocaGames.Domain\\Dtos\\Request\\AtualizarJogoRequest.cs",
-              "RelativeDocumentMoniker": "..\\Senac.GerenciamentoLocaGames.Domain\\Dtos\\Request\\AtualizarJogoRequest.cs",
-              "ToolTip": "C:\\Users\\LEONARDOHENRIQUEGABB\\source\\repos\\Senac.GerenciamentoLocaGames.Domain\\Dtos\\Request\\AtualizarJogoRequest.cs",
-              "RelativeToolTip": "..\\Senac.GerenciamentoLocaGames.Domain\\Dtos\\Request\\AtualizarJogoRequest.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-17T22:54:15.176Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "AlugarJogoRequest.cs",
-              "DocumentMoniker": "C:\\Users\\LEONARDOHENRIQUEGABB\\source\\repos\\Senac.GerenciamentoLocaGames.Domain\\Dtos\\Request\\AlugarJogoRequest.cs",
-              "RelativeDocumentMoniker": "..\\Senac.GerenciamentoLocaGames.Domain\\Dtos\\Request\\AlugarJogoRequest.cs",
-              "ToolTip": "C:\\Users\\LEONARDOHENRIQUEGABB\\source\\repos\\Senac.GerenciamentoLocaGames.Domain\\Dtos\\Request\\AlugarJogoRequest.cs",
-              "RelativeToolTip": "..\\Senac.GerenciamentoLocaGames.Domain\\Dtos\\Request\\AlugarJogoRequest.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-22T22:49:48.177Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 1,
               "Title": "JogoController.cs",
               "DocumentMoniker": "C:\\Users\\LEONARDOHENRIQUEGABB\\source\\repos\\Senac.GerenciamentoLocaGames.Api\\Controllers\\JogoController.cs",
               "RelativeDocumentMoniker": "Controllers\\JogoController.cs",
               "ToolTip": "C:\\Users\\LEONARDOHENRIQUEGABB\\source\\repos\\Senac.GerenciamentoLocaGames.Api\\Controllers\\JogoController.cs",
               "RelativeToolTip": "Controllers\\JogoController.cs",
-              "ViewState": "AgIAAEsAAAAAAAAAAAAmwE8AAAAEAAAAAAAAAA==",
+              "ViewState": "AgIAACkAAAAAAAAAAAAAADkAAAAIAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-07-21T22:55:51.972Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "IJogoRepository.cs",
-              "DocumentMoniker": "C:\\Users\\LEONARDOHENRIQUEGABB\\source\\repos\\Senac.GerenciamentoLocaGames.Domain\\Repositories\\IJogoRepository.cs",
-              "RelativeDocumentMoniker": "..\\Senac.GerenciamentoLocaGames.Domain\\Repositories\\IJogoRepository.cs",
-              "ToolTip": "C:\\Users\\LEONARDOHENRIQUEGABB\\source\\repos\\Senac.GerenciamentoLocaGames.Domain\\Repositories\\IJogoRepository.cs",
-              "RelativeToolTip": "..\\Senac.GerenciamentoLocaGames.Domain\\Repositories\\IJogoRepository.cs",
-              "ViewState": "AgIAAAsAAAAAAAAAAAAkwBcAAAAiAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-18T22:13:40.219Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 10,
               "Title": "IJogoService.cs",
               "DocumentMoniker": "C:\\Users\\LEONARDOHENRIQUEGABB\\source\\repos\\Senac.GerenciamentoLocaGames.Domain\\Servicos\\IJogoService.cs",
               "RelativeDocumentMoniker": "..\\Senac.GerenciamentoLocaGames.Domain\\Servicos\\IJogoService.cs",
@@ -171,59 +102,150 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 2,
               "Title": "Jogo.cs",
               "DocumentMoniker": "C:\\Users\\LEONARDOHENRIQUEGABB\\source\\repos\\Senac.GerenciamentoLocaGames.Domain\\Models\\Jogo.cs",
               "RelativeDocumentMoniker": "..\\Senac.GerenciamentoLocaGames.Domain\\Models\\Jogo.cs",
               "ToolTip": "C:\\Users\\LEONARDOHENRIQUEGABB\\source\\repos\\Senac.GerenciamentoLocaGames.Domain\\Models\\Jogo.cs",
               "RelativeToolTip": "..\\Senac.GerenciamentoLocaGames.Domain\\Models\\Jogo.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAfAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-07-14T23:06:13.436Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 4,
               "Title": "JogoService.cs",
               "DocumentMoniker": "C:\\Users\\LEONARDOHENRIQUEGABB\\source\\repos\\Senac.GerenciamentoLocaGames.Domain\\Servicos\\JogoService.cs",
               "RelativeDocumentMoniker": "..\\Senac.GerenciamentoLocaGames.Domain\\Servicos\\JogoService.cs",
               "ToolTip": "C:\\Users\\LEONARDOHENRIQUEGABB\\source\\repos\\Senac.GerenciamentoLocaGames.Domain\\Servicos\\JogoService.cs",
               "RelativeToolTip": "..\\Senac.GerenciamentoLocaGames.Domain\\Servicos\\JogoService.cs",
-              "ViewState": "AgIAAEYAAAAAAAAAAAAqwGIAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAiwBIAAAAMAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-07-18T22:19:59.213Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
+              "DocumentIndex": 5,
               "Title": "CadastrarResponse.cs",
               "DocumentMoniker": "C:\\Users\\LEONARDOHENRIQUEGABB\\source\\repos\\Senac.GerenciamentoLocaGames.Domain\\Dtos\\Response\\Jogo\\CadastrarResponse.cs",
               "RelativeDocumentMoniker": "..\\Senac.GerenciamentoLocaGames.Domain\\Dtos\\Response\\Jogo\\CadastrarResponse.cs",
               "ToolTip": "C:\\Users\\LEONARDOHENRIQUEGABB\\source\\repos\\Senac.GerenciamentoLocaGames.Domain\\Dtos\\Response\\Jogo\\CadastrarResponse.cs",
               "RelativeToolTip": "..\\Senac.GerenciamentoLocaGames.Domain\\Dtos\\Response\\Jogo\\CadastrarResponse.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAgAAAARAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAwAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-07-17T23:01:47.763Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 7,
               "Title": "ObterDetalhadoPorIdResponse.cs",
               "DocumentMoniker": "C:\\Users\\LEONARDOHENRIQUEGABB\\source\\repos\\Senac.GerenciamentoLocaGames.Domain\\Dtos\\Response\\Jogo\\ObterDetalhadoPorIdResponse.cs",
               "RelativeDocumentMoniker": "..\\Senac.GerenciamentoLocaGames.Domain\\Dtos\\Response\\Jogo\\ObterDetalhadoPorIdResponse.cs",
               "ToolTip": "C:\\Users\\LEONARDOHENRIQUEGABB\\source\\repos\\Senac.GerenciamentoLocaGames.Domain\\Dtos\\Response\\Jogo\\ObterDetalhadoPorIdResponse.cs",
               "RelativeToolTip": "..\\Senac.GerenciamentoLocaGames.Domain\\Dtos\\Response\\Jogo\\ObterDetalhadoPorIdResponse.cs",
-              "ViewState": "AgIAAAMAAAAAAAAAAAAAABwAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABwAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-07-17T23:02:50.589Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "ObterTodosResponse.cs",
+              "DocumentMoniker": "C:\\Users\\LEONARDOHENRIQUEGABB\\source\\repos\\Senac.GerenciamentoLocaGames.Domain\\Dtos\\Response\\Jogo\\ObterTodosResponse.cs",
+              "RelativeDocumentMoniker": "..\\Senac.GerenciamentoLocaGames.Domain\\Dtos\\Response\\Jogo\\ObterTodosResponse.cs",
+              "ToolTip": "C:\\Users\\LEONARDOHENRIQUEGABB\\source\\repos\\Senac.GerenciamentoLocaGames.Domain\\Dtos\\Response\\Jogo\\ObterTodosResponse.cs",
+              "RelativeToolTip": "..\\Senac.GerenciamentoLocaGames.Domain\\Dtos\\Response\\Jogo\\ObterTodosResponse.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-17T23:09:36.462Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "ErroResponse.cs",
+              "DocumentMoniker": "C:\\Users\\LEONARDOHENRIQUEGABB\\source\\repos\\Senac.GerenciamentoLocaGames.Domain\\Dtos\\Response\\ErroResponse.cs",
+              "RelativeDocumentMoniker": "..\\Senac.GerenciamentoLocaGames.Domain\\Dtos\\Response\\ErroResponse.cs",
+              "ToolTip": "C:\\Users\\LEONARDOHENRIQUEGABB\\source\\repos\\Senac.GerenciamentoLocaGames.Domain\\Dtos\\Response\\ErroResponse.cs",
+              "RelativeToolTip": "..\\Senac.GerenciamentoLocaGames.Domain\\Dtos\\Response\\ErroResponse.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-17T23:11:52.487Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Categoria.cs",
+              "DocumentMoniker": "C:\\Users\\LEONARDOHENRIQUEGABB\\source\\repos\\Senac.GerenciamentoLocaGames.Domain\\Models\\Categoria.cs",
+              "RelativeDocumentMoniker": "..\\Senac.GerenciamentoLocaGames.Domain\\Models\\Categoria.cs",
+              "ToolTip": "C:\\Users\\LEONARDOHENRIQUEGABB\\source\\repos\\Senac.GerenciamentoLocaGames.Domain\\Models\\Categoria.cs",
+              "RelativeToolTip": "..\\Senac.GerenciamentoLocaGames.Domain\\Models\\Categoria.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAwAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-16T22:13:04.068Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "IJogoRepository.cs",
+              "DocumentMoniker": "C:\\Users\\LEONARDOHENRIQUEGABB\\source\\repos\\Senac.GerenciamentoLocaGames.Domain\\Repositories\\IJogoRepository.cs",
+              "RelativeDocumentMoniker": "..\\Senac.GerenciamentoLocaGames.Domain\\Repositories\\IJogoRepository.cs",
+              "ToolTip": "C:\\Users\\LEONARDOHENRIQUEGABB\\source\\repos\\Senac.GerenciamentoLocaGames.Domain\\Repositories\\IJogoRepository.cs",
+              "RelativeToolTip": "..\\Senac.GerenciamentoLocaGames.Domain\\Repositories\\IJogoRepository.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAkwBcAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-18T22:13:40.219Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 12,
+              "Title": "AlugarJogoRequest.cs",
+              "DocumentMoniker": "C:\\Users\\LEONARDOHENRIQUEGABB\\source\\repos\\Senac.GerenciamentoLocaGames.Domain\\Dtos\\Request\\AlugarJogoRequest.cs",
+              "RelativeDocumentMoniker": "..\\Senac.GerenciamentoLocaGames.Domain\\Dtos\\Request\\AlugarJogoRequest.cs",
+              "ToolTip": "C:\\Users\\LEONARDOHENRIQUEGABB\\source\\repos\\Senac.GerenciamentoLocaGames.Domain\\Dtos\\Request\\AlugarJogoRequest.cs",
+              "RelativeToolTip": "..\\Senac.GerenciamentoLocaGames.Domain\\Dtos\\Request\\AlugarJogoRequest.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-22T22:49:48.177Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "AtualizarJogoRequest.cs",
+              "DocumentMoniker": "C:\\Users\\LEONARDOHENRIQUEGABB\\source\\repos\\Senac.GerenciamentoLocaGames.Domain\\Dtos\\Request\\AtualizarJogoRequest.cs",
+              "RelativeDocumentMoniker": "..\\Senac.GerenciamentoLocaGames.Domain\\Dtos\\Request\\AtualizarJogoRequest.cs",
+              "ToolTip": "C:\\Users\\LEONARDOHENRIQUEGABB\\source\\repos\\Senac.GerenciamentoLocaGames.Domain\\Dtos\\Request\\AtualizarJogoRequest.cs",
+              "RelativeToolTip": "..\\Senac.GerenciamentoLocaGames.Domain\\Dtos\\Request\\AtualizarJogoRequest.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-17T22:54:15.176Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "CadastrarJogoRequest.cs",
+              "DocumentMoniker": "C:\\Users\\LEONARDOHENRIQUEGABB\\source\\repos\\Senac.GerenciamentoLocaGames.Domain\\Dtos\\Request\\CadastrarJogoRequest.cs",
+              "RelativeDocumentMoniker": "..\\Senac.GerenciamentoLocaGames.Domain\\Dtos\\Request\\CadastrarJogoRequest.cs",
+              "ToolTip": "C:\\Users\\LEONARDOHENRIQUEGABB\\source\\repos\\Senac.GerenciamentoLocaGames.Domain\\Dtos\\Request\\CadastrarJogoRequest.cs",
+              "RelativeToolTip": "..\\Senac.GerenciamentoLocaGames.Domain\\Dtos\\Request\\CadastrarJogoRequest.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-17T22:52:15.038Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
               "Title": "DbConnectionFactory.cs",
               "DocumentMoniker": "C:\\Users\\LEONARDOHENRIQUEGABB\\source\\repos\\Senac.GerenciamentoLocaGames.Infra.Data\\DatabaseConfiguration\\DbConnectionFactory.cs",
               "RelativeDocumentMoniker": "..\\Senac.GerenciamentoLocaGames.Infra.Data\\DatabaseConfiguration\\DbConnectionFactory.cs",
@@ -232,32 +254,6 @@
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABoAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-07-21T23:20:38.978Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 13,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\LEONARDOHENRIQUEGABB\\source\\repos\\Senac.GerenciamentoLocaGames.Api\\Program.cs",
-              "RelativeDocumentMoniker": "Program.cs",
-              "ToolTip": "C:\\Users\\LEONARDOHENRIQUEGABB\\source\\repos\\Senac.GerenciamentoLocaGames.Api\\Program.cs",
-              "RelativeToolTip": "Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAiAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-21T23:14:12.382Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 14,
-              "Title": "Categoria.cs",
-              "DocumentMoniker": "C:\\Users\\LEONARDOHENRIQUEGABB\\source\\repos\\Senac.GerenciamentoLocaGames.Domain\\Models\\Categoria.cs",
-              "RelativeDocumentMoniker": "..\\Senac.GerenciamentoLocaGames.Domain\\Models\\Categoria.cs",
-              "ToolTip": "C:\\Users\\LEONARDOHENRIQUEGABB\\source\\repos\\Senac.GerenciamentoLocaGames.Domain\\Models\\Categoria.cs",
-              "RelativeToolTip": "..\\Senac.GerenciamentoLocaGames.Domain\\Models\\Categoria.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAqwA8AAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-16T22:13:04.068Z",
               "EditorCaption": ""
             },
             {
@@ -271,18 +267,6 @@
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-07-21T23:21:34.59Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 16,
-              "Title": "ErroResponse.cs",
-              "DocumentMoniker": "C:\\Users\\LEONARDOHENRIQUEGABB\\source\\repos\\Senac.GerenciamentoLocaGames.Domain\\Dtos\\Response\\ErroResponse.cs",
-              "RelativeDocumentMoniker": "..\\Senac.GerenciamentoLocaGames.Domain\\Dtos\\Response\\ErroResponse.cs",
-              "ToolTip": "C:\\Users\\LEONARDOHENRIQUEGABB\\source\\repos\\Senac.GerenciamentoLocaGames.Domain\\Dtos\\Response\\ErroResponse.cs",
-              "RelativeToolTip": "..\\Senac.GerenciamentoLocaGames.Domain\\Dtos\\Response\\ErroResponse.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-17T23:11:52.487Z"
             }
           ]
         }
